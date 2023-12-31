@@ -36,9 +36,9 @@ Recreated the iconic Wordle, the globally renowned word-guessing game, capturing
 
 ## Demo
 
-<img src="./public/wordle.gif" width="800px" />
+<img src="./public/wordle.gif" width="600px" />
 
-<img src="./public/wordle2.gif" width="800px" />
+<img src="./public/wordle2.gif" width="600px" />
 
 ## Contact
 
