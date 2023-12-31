@@ -38,6 +38,8 @@ Recreated the iconic Wordle, the globally renowned word-guessing game, capturing
 
 <img src="./public/wordle.gif" width="800px" />
 
+<img src="./public/wordle2.gif" width="800px" />
+
 ## Contact
 
   <a href="https://www.linkedin.com/in/graceyu0725/">
